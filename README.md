@@ -43,3 +43,65 @@ It helps users by:
 
 ## 📂 Project Structure  
 
+📦 CGP
+┣ 📜 app.py # Main Streamlit app
+┣ 📜 recommend_jobs.py # Job recommendation logic
+┣ 📜 requirements.txt # Dependencies for the project
+┣ 📜 roles_clean.csv # Job dataset (cleaned)
+┣ 📜 skills_list.txt # Skills database
+┣ 📜 logo.jpg # App logo
+┣ 📜 README.md # Project documentation
+┗ 📂 screenshots/ # Screenshots of the app
+
+yaml
+Copy code
+
+---
+
+## 🖼️ Screenshots  
+
+### 🏠 Home Page  
+![Home](screenshots/home.png)  
+
+### 📄 Upload Resume  
+![Upload Resume](screenshots/upload.png)  
+
+### 💼 Job Recommendations  
+![Recommendations](screenshots/recommendations.png)  
+
+### 📊 Skill Demand Visualization  
+![Skill Demand](screenshots/skill_demand.png)  
+
+### 📋 Interactive Table  
+![Interactive Table](screenshots/table.png)  
+
+---
+
+## 🚀 Deployment  
+
+This app is deployed on **Streamlit Cloud**.  
+
+Steps followed:  
+1. Pushed project files to GitHub.  
+2. Created `requirements.txt` for dependencies.  
+3. Connected GitHub repo to Streamlit Cloud.  
+4. Selected `app.py` and clicked **Deploy**.  
+
+✅ Free hosting with a shareable link.  
+
+---
+
+## 🙌 Contributing  
+
+Contributions are welcome! Feel free to:  
+- Open issues  
+- Submit pull requests  
+- Suggest new features  
+
+---
+
+## 📜 License  
+
+This project is licensed under the **MIT License** – you’re free to use, modify, and distribute it.  
+
+---
