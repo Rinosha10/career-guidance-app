@@ -1,44 +1,45 @@
-# 🎯 Career Guidance App
+# 🎯 Smart Job Recommendation System  
 
-An AI-powered job recommendation system that helps you find the most relevant career opportunities based on your **skills** or **resume**.
+AI-powered career guidance with resume parsing, skill extraction, and job matching.  
 
----
-
-## 🚀 Features
-- 📄 Resume parsing (PDF upload)
-- 🛠️ Automatic skill extraction
-- 📊 Skill demand visualization
-- 💼 Job recommendations with similarity score
-- 🔍 Search & filter options
-- 📥 Export results to CSV
-- 🖼️ Screenshots included below
+## 🚀 Live Demo  
+Try the app here: [Career Guidance App](https://career-guidance-app-6bvofffq5wdspbaecebuhp.streamlit.app/)  
 
 ---
 
-## 🖼️ Screenshots
+## 📖 Project Overview  
 
-### 🔹 Home Page
-![Home](screenshots/visual.png)
-
-### 🔹 Upload Resume
-![Upload Resume](screenshots/upload.png)
-
-### 🔹 Job Recommendations
-![Recommendations](screenshots/recommendation.png)
-
-### 🔹 Search & Filter
-![Search](screenshots/search.png)
-
-### 🔹 Interactive Table
-![Table](screenshots/table.png)
+This project is a **Career Guidance App** built with **Streamlit**.  
+It helps users by:  
+- Extracting skills from resumes (PDF).  
+- Matching them with job descriptions.  
+- Recommending top job roles based on similarity.  
+- Visualizing skill demand using charts.  
 
 ---
 
-## ⚙️ Installation
+## ⚡ Features  
 
-Clone the repo and install dependencies:
+✅ Upload resume (PDF) or manually enter skills  
+✅ Automatic skill extraction from resumes  
+✅ Job recommendation system (based on similarity scores)  
+✅ Skill demand visualization with interactive charts  
+✅ Download extracted skills & recommended jobs  
+✅ Filters for job search and industry type  
+✅ Deployed on **Streamlit Cloud** for free access  
 
-```bash
-git clone https://github.com/your-username/career-guidance-app.git
-cd career-guidance-app
-pip install -r requirements.txt
+---
+
+## 🛠️ Tech Stack  
+
+- **Python**  
+- **Streamlit** (Frontend + Hosting)  
+- **Pandas** (Data Handling)  
+- **scikit-learn** (Similarity / Recommendation logic)  
+- **Plotly** (Charts & Visualizations)  
+- **PyPDF2** (Resume text extraction)  
+
+---
+
+## 📂 Project Structure  
+
