@@ -43,18 +43,15 @@ It helps users by:
 
 ## 📂 Project Structure  
 
-📦 CGP
-┣ 📜 app.py # Main Streamlit app
-┣ 📜 recommend_jobs.py # Job recommendation logic
-┣ 📜 requirements.txt # Dependencies for the project
-┣ 📜 roles_clean.csv # Job dataset (cleaned)
-┣ 📜 skills_list.txt # Skills database
-┣ 📜 logo.jpg # App logo
-┣ 📜 README.md # Project documentation
-┗ 📂 screenshots/ # Screenshots of the app
-
-yaml
-Copy code
+📦 CGP  
+┣ 📜 app.py  # Main Streamlit app  
+┣ 📜 recommend_jobs.py  # Job recommendation logic  
+┣ 📜 requirements.txt  # Dependencies for the project  
+┣ 📜 roles_clean.csv  # Job dataset (cleaned)  
+┣ 📜 skills_list.txt  # Skills database  
+┣ 📜 logo.jpg  # App logo  
+┣ 📜 README.md  # Project documentation  
+┗ 📂 screenshots/  # Screenshots of the app  
 
 ---
 
@@ -103,5 +100,3 @@ Contributions are welcome! Feel free to:
 ## 📜 License  
 
 This project is licensed under the **MIT License** – you’re free to use, modify, and distribute it.  
-
----
