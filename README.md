@@ -61,16 +61,16 @@ Copy code
 ## 🖼️ Screenshots  
 
 ### 🏠 Home Page  
-![Home](screenshots/home.png)  
+![Home](screenshots/Search.png)  
 
 ### 📄 Upload Resume  
 ![Upload Resume](screenshots/upload.png)  
 
 ### 💼 Job Recommendations  
-![Recommendations](screenshots/recommendations.png)  
+![Recommendations](screenshots/visual.png)  
 
 ### 📊 Skill Demand Visualization  
-![Skill Demand](screenshots/skill_demand.png)  
+![Skill Demand](screenshots/recommendation.png)  
 
 ### 📋 Interactive Table  
 ![Interactive Table](screenshots/table.png)  
