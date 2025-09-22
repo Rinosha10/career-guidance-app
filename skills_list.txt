@@ -1,0 +1,11 @@
+python
+java
+c++
+javascript
+html
+css
+react
+flutter
+django
+sql
+aws
